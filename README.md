@@ -90,7 +90,7 @@ Through this project, I improved my understanding of JavaScript DOM manipulation
 
 ## 👨‍💻 Author
 
-**Your Name**
+**Himanshu gope**
 
 Learning JavaScript | Frontend Development | Building Projects
 
